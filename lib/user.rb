@@ -8,12 +8,12 @@ class User
     self.save
   end
   
-  def save
-    @@all << self
-  end
+  # def save
+  #   @@all << self
+  # end
   
-  def self.all
-    @@all
-  end
+  # def self.all
+  #   @@all
+  # end
   
 end
