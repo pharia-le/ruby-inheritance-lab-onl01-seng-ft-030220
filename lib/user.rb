@@ -9,18 +9,4 @@ class User
   end
   
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
 end
